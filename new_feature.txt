@@ -1,0 +1,2 @@
+"New feature" 
+Changes in new feature in another_new_feature
